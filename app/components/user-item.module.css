@@ -1,0 +1,35 @@
+.user {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.number {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.details {
+    flex-grow: 1;
+}
+
+.name {
+    margin: 0;
+    font-size: 18px;
+}
+
+.email,
+.address {
+    margin: 5px 0;
+}
+
+.status {
+    font-weight: bold;
+}
+
+.active {
+    color: green;
+}
+
+.inactive {
+    color: red;
+}
